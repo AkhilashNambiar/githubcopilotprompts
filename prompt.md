@@ -13,3 +13,14 @@ Task:
 1. Create entity + repository + service + controller.
 2. Implement full CRUD.
 3. Add comments explaining each layer.
+
+Act as a senior Spring Boot developer.
+
+Goal: Create a versioned REST API endpoint `/api/v1/customers`.
+- Fields: id, firstName, lastName, email.
+- Support pagination + sorting.
+
+Task:
+- Build entity, repo, service, controller.
+- Return paged response with metadata.
+``
